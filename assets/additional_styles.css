@@ -81,3 +81,7 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+
+.title-heading-center {
+  text-align: center;
+}
